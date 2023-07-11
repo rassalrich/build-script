@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3a1e502f.chunk.css",
+    "main.js": "./static/js/main.7fc738ef.chunk.js",
+    "main.js.map": "./static/js/main.7fc738ef.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.32fda66b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.32fda66b.js.map",
+    "static/css/2.d344b5ea.chunk.css": "./static/css/2.d344b5ea.chunk.css",
+    "static/js/2.6752ae22.chunk.js": "./static/js/2.6752ae22.chunk.js",
+    "static/js/2.6752ae22.chunk.js.map": "./static/js/2.6752ae22.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.d344b5ea.chunk.css.map": "./static/css/2.d344b5ea.chunk.css.map",
+    "static/css/main.3a1e502f.chunk.css.map": "./static/css/main.3a1e502f.chunk.css.map",
+    "static/js/2.6752ae22.chunk.js.LICENSE.txt": "./static/js/2.6752ae22.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.e263427e.svg": "./static/media/arrow-left.e263427e.svg",
+    "static/media/automatic-mood-scene.a5575b28.svg": "./static/media/automatic-mood-scene.a5575b28.svg",
+    "static/media/calendar-day.af439f6c.svg": "./static/media/calendar-day.af439f6c.svg",
+    "static/media/cct.72d20230.svg": "./static/media/cct.72d20230.svg",
+    "static/media/curtain.73395046.svg": "./static/media/curtain.73395046.svg",
+    "static/media/home.7fc983fd.svg": "./static/media/home.7fc983fd.svg",
+    "static/media/light.31222b46.svg": "./static/media/light.31222b46.svg",
+    "static/media/lights.b36004f6.svg": "./static/media/lights.b36004f6.svg",
+    "static/media/logout.6066f161.svg": "./static/media/logout.6066f161.svg",
+    "static/media/mood.22c5a058.svg": "./static/media/mood.22c5a058.svg",
+    "static/media/question-circle.1b0b7994.svg": "./static/media/question-circle.1b0b7994.svg",
+    "static/media/relay.0e80f190.svg": "./static/media/relay.0e80f190.svg",
+    "static/media/rgb.9c486049.svg": "./static/media/rgb.9c486049.svg",
+    "static/media/scene.a6acbd2c.svg": "./static/media/scene.a6acbd2c.svg",
+    "static/media/temperature-high.1046cdb7.svg": "./static/media/temperature-high.1046cdb7.svg",
+    "static/media/temperature-low.9d05c854.svg": "./static/media/temperature-low.9d05c854.svg",
+    "static/media/temperature-quarters.df699c01.svg": "./static/media/temperature-quarters.df699c01.svg",
+    "static/media/trash-can.bc7fd4ed.svg": "./static/media/trash-can.bc7fd4ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32fda66b.js",
+    "static/css/2.d344b5ea.chunk.css",
+    "static/js/2.6752ae22.chunk.js",
+    "static/css/main.3a1e502f.chunk.css",
+    "static/js/main.7fc738ef.chunk.js"
+  ]
+}

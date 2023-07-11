@@ -1,0 +1,101 @@
+:root {
+	--bs-body-font-size: 1.6rem;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	overflow-x: hidden;
+	background: #1B212C no-repeat fixed center;
+	background-size: cover;
+	overflow-x: hidden;
+    color: #bdbdbd;
+    font-family: "Poppins";
+	min-height: 100vh;
+	user-select: none;
+}
+
+ul {
+	font-size: 0;
+}
+
+image {
+	pointer-events: none;
+}
+
+a,
+button,
+input,
+form,
+textarea {
+	outline: none !important;
+	font-family: "Poppins";
+}
+
+button {
+	cursor: pointer;
+	background-color: transparent;
+}
+
+button:disabled {
+	cursor: default;
+}
+
+a {
+	text-decoration: none;
+}
+
+/* clears the ‘X’ from Internet Explorer */
+input[type=search]::-ms-clear {
+	display: none;
+	width : 0;
+	height: 0;
+}
+input[type=search]::-ms-reveal {
+	display: none;
+	width : 0;
+	height: 0;
+}
+
+/* clears the ‘X’ from Chrome */
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration { display: none; }
+
+/* Scrollbar */
+::-webkit-scrollbar {
+	width: 5px;
+	height: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+	background: rgba(0, 0, 0, 0.1);
+	border-radius: 3px;
+	height: 90px;
+}
+
+::-webkit-scrollbar-track {
+	border-radius: 0px;
+	background: rgba(0, 0, 0, 0.05);
+}
+
+.scrollbar {
+	scrollbar-color: #c8c7cc rgba(41, 40, 40, 0.4);
+	scrollbar-width: 8px;
+}

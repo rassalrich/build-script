@@ -1,0 +1,48 @@
+{
+	"short_name": "HSI",
+	"name": "HSI Lighting",
+	"icons": [
+		{
+			"src": "/images/logo-24x24.png",
+			"sizes": "24x24",
+			"type": "image/png",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/images/logo-32x32.png",
+			"sizes": "32x32",
+			"type": "image/png",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/images/logo-64x64.png",
+			"sizes": "64x64",
+			"type": "image/png",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/images/logo-144x144.png",
+			"sizes": "144x144",
+			"type": "image/png",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/images/logo-256x256.png",
+			"sizes": "256x256",
+			"type": "image/png",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/images/logo-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "maskable"
+		}
+	],
+	"scope": "/",
+	"start_url": "/",
+	"display": "fullscreen",
+	"theme_color": "#101E26",
+	"background_color": "#1B212C",
+	"description": "Control everything"
+}
